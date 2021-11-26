@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Configuration
+title: Get started
 nav_order: 2
 ---
 
-# Configuration
+# Get started
 {: .no_toc }
 
 
