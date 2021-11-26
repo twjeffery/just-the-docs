@@ -1,12 +1,12 @@
 ---
 layout: default
 title: UI Components
-nav_order: 3
+nav_order: 4
 has_children: true
 permalink: /docs/ui-components
 ---
 
 # UI Components
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+Components are reusable parts of the user interface that have been made to support a variety of applications. You can use individual components in many different patterns and contexts.
 {: .fs-6 .fw-300 }
