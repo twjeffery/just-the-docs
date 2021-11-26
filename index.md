@@ -21,6 +21,7 @@ A resource for all service teams within the DIO.
 ### Guidelines
 
 Guidelines are the basic characteristics that make up a component such as colour, spacing, typography, layout, icons, and much more.
+<br>
 [Browse guidelines](https://www.example.com)
 
 ---
@@ -28,18 +29,21 @@ Guidelines are the basic characteristics that make up a component such as colour
 ### Components
 
 Components are reusable parts of the user interface that have been made to support a variety of applications. You can use individual components in many different patterns and contexts.
+<br>
 [Browse components](https://www.example.com)
 
 ---
 
 ### Patterns
 Patterns are larger tasks and flows that are supported by a group of components. You can use many different components in different patterns and contexts.
+<br>
 [Browse patterns](https://www.example.com)
 
 ---
 
 ### Shared services
 Shared services are solutions to common needs that services have. Notify a user, collect payment, and more.
+<br>
 [Browse shared services](https://www.example.com)
 
 
